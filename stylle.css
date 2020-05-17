@@ -1,0 +1,110 @@
+.log{
+  float: right;
+  margin-top:5px;
+  padding-top:5px;
+}
+
+.sign{
+  float: right;
+  margin-top:5px;
+  padding-top:5px;
+  margin-left: 50px;
+  margin-right: 90px;
+}
+
+.logo{
+  float: left;
+  margin-top:5px;
+  padding-top:5px;
+  margin-left:50px;
+}
+
+.header{
+  color: #808080;
+  background-color: #000000;
+  border:none;
+  padding:30px;
+  width: 100%;
+  height:100%;
+  font-size: 18px;
+}
+
+.back{
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  margin-top: 250px;
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-bottom: 250px;
+}
+
+.img{
+  padding-left: 50px;
+}
+
+.cam{
+  float: left;
+  margin-right: 10px;
+  border: 5px solid black;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+}
+
+.camtext{
+  padding-top:22px;
+  padding-bottom: 18px;
+  width: 98%;
+  height: 98%;
+  border: 5px solid black;
+  color: #000000;
+  background-color: #ffffff;
+  text-align: center;
+  margin-right:20px;
+}
+
+.watch{
+  float: right;
+  margin-left:0px;
+  margin-right: 30px;
+}
+.watchtext{
+  text-align: center;
+  color: #000000;
+  background-color: #ffffff;
+  border: 5px solid black;
+  width: 100%;
+  height: 100%;
+  padding-top: 22px;
+  padding-bottom: 18px;
+  margin-left:0px;
+  margin-right: 30px;
+}
+
+.shirt{
+  margin-left:10px;
+  margin-right:30px;
+}
+
+.shirttext{
+  text-align: center;
+  color: #000000;
+  background-color: #ffffff;
+  border: 5px solid black;
+  width: 61.5%;
+  height: 61.5%;
+  padding-top: 22px;
+  padding-bottom: 18px;
+  margin-right:30px;
+  margin-left:10px;
+}
+.footer{
+  position: absolute;
+  margin-top: 500px;
+  bottom: auto;
+  width: 100%;
+  color: #ffffff;
+  background-color: #000000;
+  text-align: center;
+}

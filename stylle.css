@@ -1,3 +1,19 @@
+@media (min-width: 320px) {.container{
+                              width: 320px;
+                            }}
+@media (min-width: 481px) {.container{
+                              width: 481px;
+                            }}
+@media (min-width: 641px) {.container{
+                              width: 641px;
+                            }}
+ @media (min-width: 961px) {.container{
+                              width: 961px;
+                            }}
+@media (min-width: 1000px) {.container{
+                              width: 1000px;
+                            }}
+
 .log{
   float: right;
   margin-top:5px;
@@ -37,6 +53,7 @@
   margin-left: 450px;
   margin-right: 450px;
   margin-bottom: 250px;
+  padding: 10px;
 }
 
 .img{
